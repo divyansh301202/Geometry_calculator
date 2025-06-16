@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_URL = "https://geometry-calculator-1.onrender.com"
+API_URL = "https://geometry-calculator-2.onrender.com"
 
 st.set_page_config(page_title="Geometry Calculator", layout="centered")
 
